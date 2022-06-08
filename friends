@@ -2,3 +2,6 @@ var arrays = ["Tina", "Frank", "Tom", "Bob", "Beth"];
 console.log(arrays[2]);
 console.log(arrays[4]);
 console.log(arrays[0]);
+
+var places = ["Denver", "San Diego", "Paris", "Costa Rica", "Italy"];
+console.log(places.slice(2));
